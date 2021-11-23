@@ -23,7 +23,7 @@ import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
 import io.reactivex.ObservableOnSubscribe;
 import io.reactivex.functions.Consumer;
-
+//
 public class MainActivity extends AppCompatActivity {
 
     private WebView webView;
